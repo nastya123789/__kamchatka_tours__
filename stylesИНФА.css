@@ -544,3 +544,16 @@ body {
     color: #00304E !important;
     text-decoration: none !important;
 }
+
+
+.no-link-style {
+    color: #00304E !important;
+    text-decoration: none !important;
+    cursor: default !important;
+}
+
+.no-link-style:hover,
+.no-link-style:focus {
+    color: #00304E !important;
+    text-decoration: none !important;
+}
